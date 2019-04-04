@@ -3,14 +3,24 @@ General:
 	Got into MSAA with higher chance of getting Thesis.
 	It is ranked higher in Graduate Aerospace Engineering Program.
 Professors:
-	I. Hwang -- Stochastic Hybrid Systems
+	D. Andarisani -- Intent Inference in ATC
+	M.J Corless -- Operator Theory in Control and effect of flexible elements in control
+	D. DeLaurentis -- Systems of Systems Design And Applications
+	A.E Franzo -- Operator Theory in Control
 	M. Grant -- Optimal Control in Real time Trajectory Optimization
+	I. Hwang -- Stochastic Hybrid Systems
 	S. Mou -- AI and Control
 	D. Sun -- AI and ATC
+	D. Spencer -- aero-assist and mission design spacecraft formation Design and Control
+	A. Alexeenko -- DSMC
 	K.C Howell -- Orbital Mechanics and Trajectory Optimization
 	J.M Longuski -- Orbital Mechanics and Trajectory Optimization
 	B G Marchand --  Orbital Mechanics and Trajectory Optimization
-	D. Spencer -- Space Flight Projects
+Labs:
+	FDC&HSL -- I. Hwang
+	AIMS Lab -- S. Mou
+	Space Flight Projects Lab -- D. Spencer
+	System of Systems Lab -- D. DeLaurentis
 
 Why not Purdue?
 
