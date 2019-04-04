@@ -3,24 +3,40 @@ General:
 	Got into MSAA with higher chance of getting Thesis.
 	It is ranked higher in Graduate Aerospace Engineering Program.
 Professors:
-	D. Andarisani -- Intent Inference in ATC
-	M.J Corless -- Operator Theory in Control and effect of flexible elements in control
-	D. DeLaurentis -- Systems of Systems Design And Applications
-	A.E Franzo -- Operator Theory in Control
-	M. Grant -- Optimal Control in Real time Trajectory Optimization
-	I. Hwang -- Stochastic Hybrid Systems
-	S. Mou -- AI and Control
-	D. Sun -- AI and ATC
-	D. Spencer -- aero-assist and mission design spacecraft formation Design and Control
-	A. Alexeenko -- DSMC
-	K.C Howell -- Orbital Mechanics and Trajectory Optimization
-	J.M Longuski -- Orbital Mechanics and Trajectory Optimization
-	B G Marchand --  Orbital Mechanics and Trajectory Optimization
+	Aerospace:
+		D. Andarisani -- Intent Inference in ATC
+		M.J Corless -- Operator Theory in Control and effect of flexible elements in control
+		A.E Franzo -- Operator Theory in Control
+		M. Grant -- Optimal Control in Real time Trajectory Optimization
+		I. Hwang -- Stochastic Hybrid Systems
+		S. Mou -- AI and Control
+		D. Sun -- AI and ATC
+		D. Spencer -- aero-assist and mission design spacecraft formation Design and Control
+		A. Alexeenko -- DSMC
+		K.C Howell -- Orbital Mechanics and Trajectory Optimization
+		J.M Longuski -- Orbital Mechanics and Trajectory Optimization
+		B G Marchand --  Orbital Mechanics and Trajectory Optimization
+	Mechanical:
+		David Cappelleri -- Multiscale robotics manipulation and assembly
+		Xinyan Deng -- Flapping MAVs
+		Neera Jain -- Thermal Control
+	Electrical and Computer Engineering:
+		Jianghai Hu -- Distributed and networked systems and Hybrid Systems control
+		C.S. George Lee -- Learning, Humanoid research
+		Shreyas Sundaram -- Resilient Control Systems
+
 Labs:
-	FDC&HSL -- I. Hwang
-	AIMS Lab -- S. Mou
-	Space Flight Projects Lab -- D. Spencer
-	System of Systems Lab -- D. DeLaurentis
+	Aerospace:
+		FDC&HSL -- I. Hwang
+		AIMS Lab -- S. Mou
+		Space Flight Projects Lab -- D. Spencer
+	Mechanical:
+		Multi-scale Robotics and automation lab -- D. Cappelleri
+		Bio-Robotics Lab -- Xinyan Deng
+		Jain Research Lab -- Neera Jain
+	Electrical and Computer Engineering:
+		ART Lab -- C.S George Lee
+		Shreyas Sundaram Lab -- Shreyas Sundaram
 
 Why not Purdue?
 
@@ -28,19 +44,23 @@ Why not Purdue?
 Why UIUC?
 General:
 	It is ranked higher in overall categories.
-Labs:
-	Coordinate Science Laboratory -- Interdisciplinary Research in Controls
-	Bertl Research Group
-	Hei Wang Park Research Group
-	Advanced Controls Laboratory
-	Zachary R Putnam
-	Melkoir Ornik
 Professors:
-	Timothy Bertl -- Manipulation of elastic objects
-	Zachary Putnam -- autonomous aerobreaking
-	Naira Navalokyam -- L1 Adapative Control
-	Hei Wong Park -- Legged Robotics
-	Melkoir Ornik -- Linear temporal Logic in control and Safety in Control
+	Aerospace:
+		Timothy Bertl -- manipulation of elastic objects
+		Zachary Putnam -- autonomous aerobreaking
+		Melkoir Ornik -- Linear temporal Logic in control and Safety in Control
+	Mechanical:
+		Naira Navalokyam -- l1 adapative control
+		Hei Wong Park -- legged robotics
+Labs:
+	Aerospace:
+		Bertl Research Group
+		Zachary R Putnam
+		Melkoir Ornik
+	Mechanical:
+		Hei Wang Park Research Group
+		Advanced Controls Laboratory
+	Coordinate Science Laboratory -- Interdisciplinary Research in Controls
 
 Why not UIUC?
 General:
