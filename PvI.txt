@@ -1,0 +1,49 @@
+Why Purdue?
+
+General:
+	Got into MSAA with higher chance of getting Thesis.
+	It is ranked higher in Graduate Aerospace Engineering Program.
+
+Professors:
+	I. Hwang -- Stochastic Hybrid Systems
+	M. Grant -- Optimal Control in Real time Trajectory Optimization
+	S. Mou -- AI and Control
+	D. Sun -- AI and ATC
+	K.C Howell -- Orbital Mechanics and Trajectory Optimization
+	J.M Longuski -- Orbital Mechanics and Trajectory Optimization
+	B G Marchand --  Orbital Mechanics and Trajectory Optimization
+	D. Spencer -- Space Flight Projects
+
+
+
+
+Why not Purdue?
+
+
+Why UIUC?
+General:
+	It is ranked higher in overall categories.
+
+Labs:
+	Coordinate Science Laboratory -- Interdisciplinary Research in Controls
+	Bertl Research Group
+	Hei Wang Park Research Group
+	Advanced Controls Laboratory
+	Zachary R Putnam
+	Melkoir Ornik
+
+Professors:
+	Timothy Bertl -- Manipulation of elastic objects
+	Zachary Putnam -- autonomous aerobreaking
+	Naira Navalokyam -- L1 Adapative Control
+	Hei Wong Park -- Legged Robotics
+	Melkoir Ornik -- Linear temporal Logic in control and Safety in Control
+
+
+WHy not UIUC?
+General:
+	Got in to MS non-thesis and it might be hard to get in to thesis.
+
+Labs:
+	No Aerospace Controls labs. All Aero control professors are working with CSL
+
