@@ -26,7 +26,6 @@ Professors:
 		Jianghai Hu -- Distributed and networked systems and Hybrid Systems control
 		C.S. George Lee -- Learning, Humanoid research
 		Shreyas Sundaram -- Resilient Control Systems
-
 Labs:
 	Aerospace:
 		FDC&HSL -- I. Hwang
@@ -41,11 +40,15 @@ Labs:
 		Shreyas Sundaram Lab -- Shreyas Sundaram
 
 Why not Purdue?
+General:
+	Funding
+	What will you do after aero degree
 
 
 Why UIUC?
 General:
 	It is ranked higher in overall categories.
+	All Department profs interested in Controls work in CSL lab: Good interaction
 Professors:
 	Aerospace:
 		Timothy Bertl -- manipulation of elastic objects
@@ -57,7 +60,6 @@ Professors:
 		Koki Ho -- Constellations design and Stochastic Optimal Control
 		John E Prussing -- Orbital mechanics, spacecraft trajectories, optimal control systems
 		Bruce A Conway -- Orbital mechanics, optimal control applied to astrodynamics, numerical methods of optimization
-
 	Mechanical:
 		Naira Havakimyan -- l1 adapative control
 		Hei-Won Park -- legged robotics
