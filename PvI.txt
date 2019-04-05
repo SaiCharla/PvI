@@ -49,11 +49,24 @@ General:
 Professors:
 	Aerospace:
 		Timothy Bertl -- manipulation of elastic objects
+		Soon-Jo Chung -- Flapping MAVs
+		Cedric Langbort -- Robust Control
 		Zachary Putnam -- autonomous aerobreaking
 		Melkoir Ornik -- Linear temporal Logic in control and Safety in Control
+		Petros G Voulgaris -- Distributed and Networked Control
+		Koki Ho -- Constellations design and Stochastic Optimal Control
+		John E Prussing -- Orbital mechanics, spacecraft trajectories, optimal control systems
+		Bruce A Conway -- Orbital mechanics, optimal control applied to astrodynamics, numerical methods of optimization
+
 	Mechanical:
-		Naira Navalokyam -- l1 adapative control
-		Hei Wong Park -- legged robotics
+		Naira Havakimyan -- l1 adapative control
+		Hei-Won Park -- legged robotics
+		Joseph Bentman -- Systems with active singulatities that admit control actions during singular phase
+		Harry Dankovicz -- Contact Modeling, Control. MAMBO tool kit
+		Amy LaViers -- RAD Lab
+		Prashant Mehata -- Feedback particle method for non-linear estimation
+		Alexander F Vakakis -- Linear and non-linear Vibrations Lab
+		Mathew West -- Mathematical aspects of Control
 	Electrical and Computer Engineering:
 		M. -A. Belabbas -- Network control, Geometric Control, Data Analytics
 		Bin Hu -- Deep Learning, Robust Control and Stochastic Control
@@ -65,9 +78,12 @@ Labs:
 		Bertl Research Group
 		Zachary R Putnam
 		Melkoir Ornik
+		Space Systems Optimization Laboratory -- Koko Ho
 	Mechanical:
-		Hei Wang Park Research Group
-		Advanced Controls Laboratory
+		Hei-Won Park Research Group
+		Advanced Controls Laboratory -- Naira Havakimyan
+		Applied Dynamics Laboratory -- Harry Dankovicz
+		RAD Lab -- Amy LaViers
 	Coordinate Science Laboratory -- Interdisciplinary Research in Controls
 		Decision and Control Lab
 
