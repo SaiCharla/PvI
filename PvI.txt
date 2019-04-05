@@ -2,6 +2,8 @@ Why Purdue?
 General:
 	Got into MSAA with higher chance of getting Thesis.
 	It is ranked higher in Graduate Aerospace Engineering Program.
+	Number of indians are less compared to UIUC
+	Number of IISTians are more compared to UIUC
 Professors:
 	Aerospace:
 		D. Andarisani -- Intent Inference in ATC
@@ -52,6 +54,12 @@ Professors:
 	Mechanical:
 		Naira Navalokyam -- l1 adapative control
 		Hei Wong Park -- legged robotics
+	Electrical and Computer Engineering:
+		M. -A. Belabbas -- Network control, Geometric Control, Data Analytics
+		Bin Hu -- Deep Learning, Robust Control and Stochastic Control
+		Roy Dong -- Control
+		Daniel Liberzon -- Non-linear control and Information Systems
+		Maxim Raginsky -- control applications in advanced electronics, autonomy, AI, Quantum Information Science
 Labs:
 	Aerospace:
 		Bertl Research Group
@@ -61,10 +69,13 @@ Labs:
 		Hei Wang Park Research Group
 		Advanced Controls Laboratory
 	Coordinate Science Laboratory -- Interdisciplinary Research in Controls
+		Decision and Control Lab
 
 Why not UIUC?
 General:
 	Got in to MS non-thesis and it might be hard to get in to thesis.
+	Less number of IISTians
+	More number of Indians
 Labs:
 	No Aerospace Controls labs. All Aero control professors are working with CSL
 
