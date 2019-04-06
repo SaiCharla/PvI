@@ -1,13 +1,15 @@
 Why Purdue?
+Will you do PhD in Purdue?
+Might get TA in Mathematics Department
 General:
 	Got into MSAA with higher chance of getting Thesis.
 	It is ranked higher in Graduate Aerospace Engineering Program.
-	Number of indians are less compared to UIUC
+	Number of Indians are less compared to UIUC
 	Number of IISTians are more compared to UIUC
 Professors:
 	Aerospace:
 		D. Andarisani -- Intent Inference in ATC
-		M.J Corless -- Operator Theory in Control and effect of flexible elements in control
+		M.J Corless -- Operator Theory effect of flexible elements in control
 		A.E Franzo -- Operator Theory in Control
 		M. Grant -- Optimal Control in Real time Trajectory Optimization
 		I. Hwang -- Stochastic Hybrid Systems
@@ -23,7 +25,7 @@ Professors:
 		Xinyan Deng -- Flapping MAVs
 		Neera Jain -- Thermal Control
 	Electrical and Computer Engineering:
-		Jianghai Hu -- Distributed and networked systems and Hybrid Systems control
+		Jianghai Hu -- Distributed and networked systems and HS control
 		C.S. George Lee -- Learning, Humanoid research
 		Shreyas Sundaram -- Resilient Control Systems
 Labs:
@@ -46,24 +48,26 @@ General:
 
 
 Why UIUC?
+Will you do PhD in UIUC?
+Will I get TA in Mathematics Department?
 General:
 	It is ranked higher in overall categories.
-	All Department profs interested in Controls work in CSL lab: Good interaction
+	All Department profs interested in Controls work in CSL lab: interaction
 Professors:
 	Aerospace:
 		Timothy Bertl -- manipulation of elastic objects
 		Soon-Jo Chung -- Flapping MAVs
 		Cedric Langbort -- Robust Control
 		Zachary Putnam -- autonomous aerobreaking
-		Melkoir Ornik -- Linear temporal Logic in control and Safety in Control
+		Melkoir Ornik -- Linear temporal Logic and Safety in Control
 		Petros G Voulgaris -- Distributed and Networked Control
 		Koki Ho -- Constellations design and Stochastic Optimal Control
-		John E Prussing -- Orbital mechanics, spacecraft trajectories, optimal control systems
-		Bruce A Conway -- Orbital mechanics, optimal control applied to astrodynamics, numerical methods of optimization
+		John E Prussing -- Orbital Mechanics, optimal control
+		Bruce A Conway -- Orbital Mechanics, optimal control
 	Mechanical:
 		Naira Havakimyan -- l1 adapative control
 		Hei-Won Park -- legged robotics
-		Joseph Bentman -- Systems with active singulatities that admit control actions during singular phase
+		Joseph Bentman -- Systems with active singularities
 		Harry Dankovicz -- Contact Modeling, Control. MAMBO tool kit
 		Amy LaViers -- RAD Lab
 		Prashant Mehata -- Feedback particle method for non-linear estimation
@@ -74,7 +78,7 @@ Professors:
 		Bin Hu -- Deep Learning, Robust Control and Stochastic Control
 		Roy Dong -- Control
 		Daniel Liberzon -- Non-linear control and Information Systems
-		Maxim Raginsky -- control applications in advanced electronics, autonomy, AI, Quantum Information Science
+		Maxim Raginsky -- control applications in electronics, AI, QIS
 Labs:
 	Aerospace:
 		Bertl Research Group
@@ -95,5 +99,5 @@ General:
 	Less number of IISTians
 	More number of Indians
 Labs:
-	No Aerospace Controls labs. All Aero control professors are working with CSL
+	All Aero-control professors are working with CSL
 
