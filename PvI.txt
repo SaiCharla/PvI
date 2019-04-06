@@ -4,7 +4,7 @@ General:
 Academic:
 	Study extensively:
 		Control Theory
-		Computer Science
+		Computer Engineering
 		Mathematics
 			in a highly intensive and short period of time.
 	Pursue PhD
