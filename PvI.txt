@@ -1,6 +1,27 @@
+Why am I doing Masters?
+General:
+	Higher standard of life -- and solve higher standard of problems
+Academic:
+	Study extensively:
+		Control Theory
+		Computer Science
+		Mathematics
+			in a highly intensive and short period of time.
+	Pursue PhD
+		possibly in CalTech CDS program
+Career:
+	Become a good Control Systems Engineer
+		Solve Control problems in Industry.
+
+
 Why Purdue?
 Will you do PhD in Purdue?
-Might get TA in Mathematics Department
+	I. Hwang
+	A.E Franzo
+	M.J Corless
+	M. Grant
+	D. Spencer
+Might get TA in Mathematics Department -- Want to interact with Math people
 General:
 	Got into MSAA with higher chance of getting Thesis.
 	It is ranked higher in Graduate Aerospace Engineering Program.
@@ -15,7 +36,7 @@ Professors:
 		I. Hwang -- Stochastic Hybrid Systems
 		S. Mou -- AI and Control
 		D. Sun -- AI and ATC
-		D. Spencer -- aero-assist and mission design spacecraft formation Design and Control
+		D. Spencer -- aero-assist and mission design spacecraft formation
 		A. Alexeenko -- DSMC
 		K.C Howell -- Orbital Mechanics and Trajectory Optimization
 		J.M Longuski -- Orbital Mechanics and Trajectory Optimization
@@ -49,7 +70,9 @@ General:
 
 Why UIUC?
 Will you do PhD in UIUC?
-Will I get TA in Mathematics Department?
+	Timothy Bertl
+	Soon Jo Chung
+	Naira Hovakimyan
 General:
 	It is ranked higher in overall categories.
 	All Department profs interested in Controls work in CSL lab: interaction
@@ -94,10 +117,14 @@ Labs:
 		Decision and Control Lab
 
 Why not UIUC?
+Will I get TA in Mathematics Department?
 General:
 	Got in to MS non-thesis and it might be hard to get in to thesis.
 	Less number of IISTians
 	More number of Indians
+Professors:
+	Timothy Bertl has ECE MS students as PhDs
+	Soon Jo Chung is in CalTech now, so not possible to interact much
 Labs:
 	All Aero-control professors are working with CSL
 
