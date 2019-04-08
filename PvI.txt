@@ -8,7 +8,7 @@ Academic:
 		Mathematics
 			in a highly intensive and short period of time.
 	Pursue PhD
-		possibly in CalTech CDS program
+		possibly in CalTech CDS program or a similar program.
 Career:
 	Become a good Control Systems Engineer
 		Solve Control problems in Industry.
@@ -129,3 +129,8 @@ Professors:
 Labs:
 	All Aero-control professors are working with CSL
 
+
+Conclusion:
+	Both Purdue and UIUC are similar in terms of professors and courses.
+	There is a higher chance of getting funding in Purdue (Math TA or RA under a prof.) according to seniors after first sem.
+	Tuition fee and cost of living in Purdue are slightly less compared to UIUC.
